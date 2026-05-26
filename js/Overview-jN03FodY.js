@@ -1,0 +1,1 @@
+import{m as a,p as t,c as r,o as s}from"./index-Dv2Ui4Pw.js";const p={__name:"Overview",props:a({name:{type:String}},{data:{type:String,default:""},dataModifiers:{}}),emits:["update:data"],setup(e){return t(e,"data"),(o,n)=>(s(),r("h2",null,"Overview"))}};export{p as default};
