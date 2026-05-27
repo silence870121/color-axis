@@ -1,0 +1,1 @@
+import{_ as e,c as r,a as s,o as a}from"./index-CivFnPCA.js";const t={},c={class:"color-map"};function n(l,o){return a(),r("div",c,[...o[0]||(o[0]=[s("h2",null,"ColorMap",-1)])])}const p=e(t,[["render",n]]);export{p as default};
